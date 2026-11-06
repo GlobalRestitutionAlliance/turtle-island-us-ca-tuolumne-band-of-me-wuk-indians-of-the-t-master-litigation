@@ -7,8 +7,8 @@ skills:
   name: Historical Intervention & Canal Concession Audit
   status: ACTIVE
   manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: nicaraguan-restitution-roadmap-and-qsf-trust-execution
-  name: Nicaraguan Restitution Roadmap & QSF Trust Execution
+- id: tuolumne-band-of-me-wuk-indians-of-the-tan-restitution-roadmap-and-qsf-trust-execution
+  name: Tuolumne Band of Me Wuk Indians of the Tan Restitution Roadmap & QSF Trust Execution
   status: ACTIVE
-  manifest_file: .antigravity/skills/nicaraguan-restitution-roadmap-and-qsf-trust-execution.yaml
+  manifest_file: .antigravity/skills/tuolumne-band-of-me-wuk-indians-of-the-tan-restitution-roadmap-and-qsf-trust-execution.yaml
 total_skills: 3
