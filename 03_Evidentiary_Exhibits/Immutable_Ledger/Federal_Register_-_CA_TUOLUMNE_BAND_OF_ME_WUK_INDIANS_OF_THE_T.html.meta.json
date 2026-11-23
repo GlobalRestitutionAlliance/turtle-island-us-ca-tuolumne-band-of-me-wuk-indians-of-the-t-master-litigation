@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=CA+TUOLUMNE+BAND+OF+ME+WUK+INDIANS+OF+THE+T",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=CA+TUOLUMNE+BAND+OF+ME+WUK+INDIANS+OF+THE+T",
+  "title": "Federal Register - CA TUOLUMNE BAND OF ME WUK INDIANS OF THE T",
+  "fetched_at": "2026-11-23T18:03:09.739915Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 138627,
+  "sha256": "81b996fe0766a77cebf59df81acadc5d6228b6f25451d15efb296b98504baa0e",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
